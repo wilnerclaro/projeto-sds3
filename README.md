@@ -10,12 +10,13 @@ Dashboard de vendas é uma aplicação full stack web responsivo, construída du
 A aplicação consiste em apresentar a quantidade de vendas e o percentual de sucesso em fechar as vendas para cada vendedor.
 
 ## Layout mobile
+![MOBILE](https://github.com/wilnerclaro/projeto-sds3/raw/master/assets/layout_mobile.PNG)
 
 
 ## Layout web
+![Web 1](https://github.com/wilnerclaro/projeto-sds3/raw/master/assets/layout_web_1.PNG)
 
-
-
+![Web 2](https://github.com/wilnerclaro/projeto-sds3/raw/master/assets/layout_web_2.PNG)
 
 
 
@@ -43,7 +44,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/wilnerclaro/projeto-sds3.git
 
 # entrar na pasta do projeto back end
 cd backend
@@ -57,10 +58,10 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/wilnerclaro/projeto-sds3.git
 
 # entrar na pasta do projeto front end web
-cd front-web
+cd frontend
 
 # instalar dependências
 yarn install
